@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(197, 187, 187);
+}
+nav .navbar-nav li a{
+    color: white !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+  
+}
+nav .navbar-nav li a:hover{
+    background: hotpink;
+    transition: ease-in-out 1s ;
+    border-radius: 10px;
+
+}
+.main{
+    background: indigo;
+    height: 232px;
+}
+#head1{
+    position: absolute;
+    transform: translate(32%, 131%);
+    color: white;
+    font-size: -webkit-xxx-large;
+}
+
+
+.img1{
+    height: 80px;
+}
+.row{
+    
+    background-color: aliceblue;
+    width: 95%;
+    height: 850px;
+    border: 1px solid aquamarine;
+    position: relative;
+    transform: translate(4%, -4%);
+}
+p  { 
+    
+    width: 105px;
+}
+#butt{
+    background: darkblue;
+}

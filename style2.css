@@ -1,0 +1,26 @@
+nav .navbar-nav li a{
+    color: white !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+  
+}
+nav .navbar-nav li a:hover{
+    background: hotpink;
+    transition: ease-in-out 1s ;
+    border-radius: 10px;
+
+}
+.text{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color:palegreen;
+}
+textarea{
+    width:230px;
+    background: rgba(255, 255, 255, 0.897);
+}
+/* #text-email{
+    width: 485px;
+} */
